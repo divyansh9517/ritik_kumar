@@ -1,2 +1,1 @@
-# ritik_kumar
-portfolio
+# project2
